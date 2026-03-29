@@ -10,3 +10,5 @@ elif marks >= 40:
     print("Grade: D")
 else:
     print("Grade: Fail or F")
+
+# Checks ranges using if-elif-else. #

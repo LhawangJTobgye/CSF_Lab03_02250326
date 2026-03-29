@@ -11,3 +11,7 @@ else:
         print("The largest number is:", b)
     else:
         print("The largest number is:", c)
+
+# Compares a with b first. #
+# Then compares the larger of a and b with c to find the largest. #
+ #Uses nested if-else for stepwise comparison. #
