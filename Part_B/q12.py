@@ -7,3 +7,5 @@ while i <= n:
     i += 1
 
 print("Sum from 1 to", n, "is:", sum)
+
+# Loops from 1 to n and adds the numbers #
