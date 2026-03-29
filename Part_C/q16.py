@@ -7,3 +7,7 @@ for num in numbers:
         break
 else:
     print("Number is not found in the list.")
+
+# Loops through list and compares each number with search. #
+# Stops immediately when number is found using break. #
+# else runs only if the number is not found. #
