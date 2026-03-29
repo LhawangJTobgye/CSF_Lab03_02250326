@@ -22,3 +22,7 @@ elif choice == 4:
         print("Cannot divide by zero")
 else:
     print("choice is not available")
+
+# Shows a menu for addition, subtraction, multiplication, division. #
+# Uses if-elif-else to select the operation. #
+# Checks division by zero. #
