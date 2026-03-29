@@ -6,3 +6,6 @@ def factorial(n):
 
 num = int(input("Enter a number: "))
 print("Factorial of", num, "is", factorial(num))
+
+# Loop multiplies numbers from 1 to n. #
+# Returns the factorial. #

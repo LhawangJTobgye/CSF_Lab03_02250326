@@ -5,3 +5,6 @@ def multiplication_table(num):
 
 n = int(input("Enter a number: "))
 multiplication_table(n)
+
+# Loops 1 to 10 and prints num * x. #
+# Function allows reusing for any number. #
