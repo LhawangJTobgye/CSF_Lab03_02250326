@@ -46,4 +46,4 @@ while True:
 # Functions defined for each operation. #
 # while True loop keeps showing menu until user selects Exit. #
 # Calls the appropriate function based on user choice. #
-# Handles division by zero. #
+# Handles the division by zero. #
