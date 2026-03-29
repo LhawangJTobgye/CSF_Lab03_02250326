@@ -7,3 +7,7 @@ def even_odd_till(n):
 
 n = int(input("Enter a number: "))
 even_odd_till(n)
+
+# Loops from 1 to n. #
+# Checks even/odd using % 2. #
+# Prints each number with its status. #

@@ -42,3 +42,8 @@ while True:
         print("Result:", divide(number1, number2))
     else:
         print("Invalid choice. Please select from options 1-5.")
+
+# Functions defined for each operation. #
+# while True loop keeps showing menu until user selects Exit. #
+# Calls the appropriate function based on user choice. #
+# Handles division by zero. #
