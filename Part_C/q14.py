@@ -3,4 +3,4 @@ for a in range(1, 11):
         break
     print(a)
 
-# break stops the loop when i == 6. #
+# break stops the loop when a == 6. #
